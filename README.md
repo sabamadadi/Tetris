@@ -69,3 +69,5 @@ The code is structured as follows:
 - The `moveShapeLeft` and `moveShapeRight` functions move the current shape horizontally.
 - The `gameLoop` function contains the main game loop and handles user input and game updates.
 - The `main` function initializes the game and starts the game loop.
+
+Many thanks to [Najib Ghadri](https://www.linkedin.com/in/najibghadri/) for giving me the original idea of implementing this game in the C language, and this is the first program I have written entirely in C :)
