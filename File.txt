@@ -1,2 +1,2 @@
-gcc tetris.c -o tetris -lncurses
-./tetris
+tetris: tetris.c
+	gcc tetris.c -lncurses
