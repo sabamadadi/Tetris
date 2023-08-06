@@ -1,2 +1,2 @@
-Main: Main.c
-	gcc Main.c -lncurses
+tetris: tetris.c
+	gcc tetris.c -lncurses
