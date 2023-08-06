@@ -1,2 +1,4 @@
+Tetris:github/linguist
+
 gcc tetris.c -o tetris -lncurses
 ./tetris
